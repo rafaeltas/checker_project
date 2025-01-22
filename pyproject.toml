@@ -3,7 +3,6 @@ name = "checker-project"
 version = "0.1.0"
 description = ""
 authors = ["Rafael Tas <rafaeltas@gmail.com>"]
-license = "GPL-3.0"
 readme = "README.md"
 
 [tool.poetry.dependencies]
