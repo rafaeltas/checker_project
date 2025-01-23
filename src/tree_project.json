@@ -1,0 +1,19 @@
+{
+  "project_name": {
+    "Source": [
+      "testando_o_teste.txt"
+    ],
+    "Textures": [
+      "Textures_o_teste.txt"
+    ],
+    "High_Poly": [
+      "High_Poly_o_teste.txt"
+    ],
+    "Blender": [
+      "Blender_o_teste.blend"
+    ],
+    "Meshes": [
+      "Meshes_o_teste.txt"
+    ]
+  }
+}
